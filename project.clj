@@ -1,4 +1,4 @@
-(defproject im.chit/oren "0.1.0"
+(defproject im.chit/oren "0.1.1"
   :description "system and process monitoring for clojure"
   :url "https://github.com/zcaudate/oren"
   :license {:name "The MIT License"

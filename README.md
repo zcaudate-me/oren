@@ -21,7 +21,7 @@ system and process monitoring for clojure
 Add to project.clj dependencies:
 
 ```clojure
-[im.chit/oren "0.1.0"]
+[im.chit/oren "0.1.1"]
 ```
 
 ## Usage
