@@ -1,5 +1,6 @@
 (ns oren.core
-  (:require [oren.types :as types]))
+  (:require [oren.types :as types]
+            [hara.object :as object]))
 
 (defonce ^:dynamic *raw* true)
 
