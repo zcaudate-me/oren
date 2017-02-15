@@ -21,7 +21,7 @@ system and process monitoring for clojure
 Add to project.clj dependencies:
 
 ```clojure
-[im.chit/oren "0.1.1"]
+[im.chit/oren "0.1.6"]
 ```
 
 ## Usage
@@ -119,7 +119,6 @@ For specifics about the system can be access via `cpu`, `memory`, `power`, `disp
         :version {:build-number "15D21", :code-name "El Capitan", :version "10.11.3"}}
 
 ```
-
 
 ## License
 
